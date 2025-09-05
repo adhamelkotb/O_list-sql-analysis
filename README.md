@@ -36,4 +36,4 @@ Tools & Skills
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Olist-SQL-Analysis.git
+   git clone https://github.com/adhamelkotb/Olist SQL Analysis.git
