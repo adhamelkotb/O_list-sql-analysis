@@ -25,13 +25,6 @@ Tools & Skills
 
 ---
 
-## 📊 Example Insights
-- Average delivery time across Brazil is ~12 days, with some states taking significantly longer.  
-- ~18% of customers are repeat buyers.  
-- Peak sales periods occur in November (Black Friday season).  
-- Certain sellers consistently rank #1 in monthly revenue.  
-
----
 
 ## 🚀 How to Use
 1. Clone the repository:
